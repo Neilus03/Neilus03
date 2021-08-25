@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neilus03
+- 👋 Hi, I’m @Neilus03, Artificial Intelligence student at "Universitat Autonoma de Barcelona (UAB)"
 - 👀 I’m interested in artificial intelligence and physics
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on whatever you propose
