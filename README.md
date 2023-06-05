@@ -7,3 +7,5 @@
 Neilus03/Neilus03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![nde-la-f's 42 stats](https://badge42.vercel.app/api/v2/cliixht54000608jyztf6cj4u/stats?cursusId=21&coalitionId=206)](https://github.com/JaeSeoKim/badge42)
