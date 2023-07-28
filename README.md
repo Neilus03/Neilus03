@@ -1,4 +1,4 @@
-Artificial Intelligence degree student at UAB while also a Computer Science student in 42 Barcelona.
+Artificial Intelligence degree student at UAB while also Computer Science student in 42 Barcelona.
 
 
 
