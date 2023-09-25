@@ -1,4 +1,5 @@
-Artificial Intelligence degree student at UAB while also Computer Science student in 42 Barcelona.
+-Research intern at Computer Vision Center Barcelona
+-Artificial Intelligence degree student at UAB while also Computer Science student in 42 Barcelona.
 
 
 
