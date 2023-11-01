@@ -3,7 +3,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilus03&layout=compact&theme=normal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilus03&layout=compact&theme=radical)
 
 
 ---
