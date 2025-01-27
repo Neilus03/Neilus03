@@ -2,7 +2,7 @@
 
 * Student Researcher at Computer Vision Center Barcelona (CVC)
 * Incoming Student Researcher at HiTZ (UPV-EHU)
-* Artificial Intelligence degree student at UAB.  
+* Artificial Intelligence degree student at UAB. 
    
 --------------------------------------
 
