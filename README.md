@@ -1,9 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neilus03&label=Profile%20views&color=0e75b6&style=flat" alt="Neilus03" /> </p>
 
-* Student Researcher at Computer Vision Center Barcelona (CVC)
-* Incoming Student Researcher at HiTZ (UPV-EHU)
+* Student Researcher at Technical University of Munich (TUM)
 * Artificial Intelligence degree student at UAB. 
-   
+* ex-Student Researcher at Computer Vision Center Barcelona (CVC)
+* ex-Student Researcher at HiTZ (UPV-EHU)
+
 --------------------------------------
 
 
