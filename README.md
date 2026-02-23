@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neilus03&label=Profile%20views&color=0e75b6&style=flat" alt="Neilus03" /> </p>
 
-* Student Researcher at Technical University of Munich (TUM)
-* Artificial Intelligence degree student at UAB. 
+* Student Researcher at ETH Zürich PRS Lab 
+* MSc Data Science student at ETH Zürich.
+* ex Student Researcher at Technical University of Munich (TUM) - CVG.
 * ex-Student Researcher at Computer Vision Center Barcelona (CVC)
 * ex-Student Researcher at HiTZ (UPV-EHU)
 
