@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neilus03&label=Profile%20views&color=0e75b6&style=flat" alt="Neilus03" /> </p>
 
-* Student Researcher at ETH Zürich PRS Lab 
+* Research Assistant at ETH Zürich PRS Lab 
 * MSc Data Science student at ETH Zürich.
 * ex Student Researcher at Technical University of Munich (TUM) - CVG.
 * ex-Student Researcher at Computer Vision Center Barcelona (CVC)
